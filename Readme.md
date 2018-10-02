@@ -53,7 +53,7 @@ In this section, i have used Sklearn library and python code in Jupyter Notebook
 
     The goal of this exercise is to prepare a predictive model with whichever Python library/resource (e.g. sklearn, theano, keras, tensorflow, xgboost, etc) using the Apnea-ECG Database. This dataset has been described in T Penzel, GB Moody, RG Mark, AL Goldberger, JH Peter. Computers in Cardiology 2000;27:255-258
 
-# 6. Analisys. Support vector machines (SVMs) are a set of supervised learning methods used for classification, regression and outliers detection.
+## 6. Analisys. Support vector machines (SVMs) are a set of supervised learning methods used for classification, regression and outliers detection.
 
 
 
